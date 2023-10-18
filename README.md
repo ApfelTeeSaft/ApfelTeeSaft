@@ -1,1 +1,2 @@
 [![ApfelTeeSaft's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApfelTeeSaft)](https://github.com/anuraghazra/github-readme-stats)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rnk35i03w7n4usd5tzccdd7lv&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=rnk35i03w7n4usd5tzccdd7lv&redirect=true)
