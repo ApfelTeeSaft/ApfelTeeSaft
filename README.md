@@ -1,3 +1,6 @@
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=apfelteesaft&label=Profile%20views&color=0e75b6&style=flat" alt="apfelteesaft" />
+</p>
 # Discord RPC </br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/984377523716644875?idleMessage=eating,afk%20or%20sleeping)](https://discord.com/users/984377523716644875)</br>
 # Spotify Player </br>
