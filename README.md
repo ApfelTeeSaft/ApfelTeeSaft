@@ -1,5 +1,5 @@
 # Discord RPC </br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/984377523716644875?idleMessage=eating,afk%20or%20sleeping)](https://discord.com/users/984377523716644875)</br>
+<img width="400" src="https://dsc-readme.tsuni.dev/api/user/984377523716644875"></img>
 # Spotify Player </br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rnk35i03w7n4usd5tzccdd7lv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 # Github Stats </br>
