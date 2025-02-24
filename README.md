@@ -1,7 +1,5 @@
 # Discord RPC </br>
 <img width="400" src="https://dsc-readme.tsuni.dev/api/user/984377523716644875"></img>
-# Spotify Player </br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rnk35i03w7n4usd5tzccdd7lv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 # Github Stats </br>
 [![ApfelTeeSaft's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApfelTeeSaft&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used Languages by ApfelTeeSaft](https://github-readme-stats.vercel.app/api/top-langs/?username=apfelteesaft&layout=compact&theme=highcontrast&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)</br>
